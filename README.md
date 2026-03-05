@@ -1,6 +1,6 @@
 # Camila Silva
 
-**username:** Camii-Silva  
+**username:** Camiisilva  
 **também conhecida como:** caMOmila 🌼
 
 Estudante de Desenvolvimento Web (DW) na Afesu Veleiros em parceria com o SENAI.  
