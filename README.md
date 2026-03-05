@@ -34,9 +34,3 @@ O apelido **caMOmila** é um trocadilho com meu nome: retirando **"mo"**, perman
 - Desenvolvendo pequenos projetos para praticar desenvolvimento web  
 - Construindo meu portfólio no GitHub  
 - Aprimorando lógica e organização de código  
-
----
-
-## Observação
-
-"caMOmila" é um jogo de palavras com meu nome: retirando **"mo"**, permanece **Camila**.
