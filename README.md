@@ -1,36 +1,48 @@
-# Camila Silva
+## oioioi, eu sou a Camila Silva🌼
 
-**username:** Camiisilva  
-**também conhecida como:** caMOmila 🌼
+<p align="center"><i>caMOmila — developer in progress</i></p>
 
-Estudante de Desenvolvimento Web (DW) na Afesu Veleiros em parceria com o SENAI.  
-Atualmente desenvolvendo minhas bases em programação, lógica e tecnologias web enquanto construo meus primeiros projetos.
+**Nome de usuário:** Camiisilva
+**também conhecida como:** caMOmila
 
----
+Sou estudante de **Desenvolvimento Web (DW)** na Afesu Veleiros em parceria com o SENAI.
+Atualmente estou construindo minha base em programação, lógica e tecnologias web enquanto desenvolvo meus primeiros projetos.
 
-## Sobre mim
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-Iniciei meus estudos em tecnologia com o curso de **Tecnologia Básica (2023)**, onde tive contato com fundamentos de informática e ferramentas como Excel.
+## 🌷 Sobre mim
 
-Hoje estou aprofundando meus conhecimentos em desenvolvimento web, trabalhando principalmente com a estrutura da web, estilos e lógica básica de programação.
+Comecei meus estudos em tecnologia no curso de **Tecnologia Básica (2023)**, onde tive contato com fundamentos de informática e ferramentas como Excel.
 
-O apelido **caMOmila** é um trocadilho com meu nome: retirando **"mo"**, permanece **Camila**.
+Hoje estou me aprofundando em **desenvolvimento web**, trabalhando com estrutura de páginas, estilos e lógica básica de programação enquanto aprendo a organizar projetos e usar versionamento com Git e GitHub.
 
----
+O apelido **caMOmila** é um pequeno jogo de palavras com meu nome: retirando **"mo"**, permanece **Camila**.
 
-## Tecnologias e conhecimentos
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 🐱 Tecnologias e conhecimentos
 
----
+Tecnologias que estou aprendendo e utilizando durante meus estudos em desenvolvimento web:
 
-## Atualmente
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
 
-- Desenvolvendo pequenos projetos para praticar desenvolvimento web  
-- Construindo meu portfólio no GitHub  
-- Aprimorando lógica e organização de código  
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌱 Atualmente
+
+• desenvolvendo pequenos projetos para praticar desenvolvimento web
+• construindo meu portfólio no GitHub
+• aprimorando lógica de programação e organização de código
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✨ Inspiração
+
+> **Ora et Labora** — *Reze e trabalhe.*
+
+> **“A medida do amor é amar sem medidas.”** — Santo Agostinho
