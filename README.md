@@ -1,4 +1,4 @@
-## oioioi, eu sou a Camila Silva!!🌼
+## oioii, eu sou a Camila Silva!!🌼
 
 <p align="center"><i>caMOmila — developer in progress</i></p>
 
@@ -37,16 +37,29 @@ Tecnologias que estou aprendendo e utilizando durante meus estudos em desenvolvi
 ## 🌱 Atualmente
 
 • desenvolvendo pequenos projetos para praticar desenvolvimento web
+
 • construindo meu portfólio no GitHub
+
 • aprimorando lógica de programação e organização de código
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎧 Referências
+
+> "A tempestade que chega é da cor dos teus olhos castanhos."
+
+— Tempo Perdido, Legião Urbana
+
+> "Vocês foram a minha luz... eu amo vocês."
+
+— Cesar "Kaiser" Oliveira Cohen
+
 
 ## ✨🦉 Inspiração
 
 > **“A medida do amor é amar sem medidas.”** — Santo Agostinho
 
-> **Ora et Labora** — *Reze e trabalhe.* — São Bento
+> **“Ora et Labora”** — *“Reze e trabalhe.”* — São Bento
 
 
 
