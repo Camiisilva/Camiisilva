@@ -1,4 +1,4 @@
-## oioioi, eu sou a Camila Silva🌼
+## oioioi, eu sou a Camila Silva!!🌼
 
 <p align="center"><i>caMOmila — developer in progress</i></p>
 
@@ -10,7 +10,7 @@ Atualmente estou construindo minha base em programação, lógica e tecnologias 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌷 Sobre mim
+## ☕ Sobre mim
 
 Comecei meus estudos em tecnologia no curso de **Tecnologia Básica (2023)**, onde tive contato com fundamentos de informática e ferramentas como Excel.
 
@@ -23,13 +23,14 @@ O apelido **caMOmila** é um pequeno jogo de palavras com meu nome: retirando **
 ## 🐱 Tecnologias e conhecimentos
 
 Tecnologias que estou aprendendo e utilizando durante meus estudos em desenvolvimento web:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -41,8 +42,11 @@ Tecnologias que estou aprendendo e utilizando durante meus estudos em desenvolvi
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ✨ Inspiração
-
-> **Ora et Labora** — *Reze e trabalhe.*
+## ✨🦉 Inspiração
 
 > **“A medida do amor é amar sem medidas.”** — Santo Agostinho
+
+> **Ora et Labora** — *Reze e trabalhe.* — São Bento
+
+
+
